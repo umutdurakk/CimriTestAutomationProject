@@ -1,0 +1,26 @@
+[{
+  "key": "key",
+  "value": "value",
+  "type": "css,id,xpath,class"
+},{
+  "key": "searchBoxforClick",
+  "value": "//*[contains(@class,'SearchBox_searchBarPlaceholder')]",
+  "type": "xpath"
+},{
+  "key": "searchBoxforSendKeys",
+  "value": "//*[contains(@class,'SearchBoxInput_searchBoxInputContainer')]/input",
+  "type": "xpath"
+},{
+  "key": "selectIPhone",
+  "value": "#cimri-product > article > a",
+  "type": "css"
+},{
+  "key": "phonePrice",
+  "value": "//span[contains(@class,'Offer_price')]",
+  "type": "xpath"
+},{
+  "key": "goToStore",
+  "value": "//a[contains(@class,'JumpButton_button')]",
+  "type": "xpath"
+}
+]
